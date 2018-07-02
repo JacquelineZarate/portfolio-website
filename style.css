@@ -1,0 +1,35 @@
+.parallax {
+  background: url("alamo_faded.jpg");
+  height: 700px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+.margin {
+    margin-top: 30px;
+}
+.title {
+    font-family: 'Pangolin', cursive;
+}
+#about {
+    height: 100vh;
+    background: linear-gradient(rgb(0, 240, 255), rgb(0, 102, 255));
+}
+#skills {
+    height: 100vh;
+    background: linear-gradient(rgb(0, 102, 255), rgb(97, 0, 255));
+}
+#programming {
+    height: 100vh;
+    background: linear-gradient(rgb(97, 0, 255), rgb(19, 0, 51));
+
+}
+.text {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+}
+.round {
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+    width: 150px;
+}
